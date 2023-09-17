@@ -1,2 +1,8 @@
+.vscode/
 .env
 env/
+notes.txt
+logs.log
+*.pyc
+*.log
+__pycache__/
